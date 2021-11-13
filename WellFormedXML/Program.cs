@@ -23,7 +23,7 @@ namespace WellFormedXML
             else if (string.Compare(args[0], "--h",true) == 0)
             {
                 Console.WriteLine("WellFormedXML --h :  This help information.");
-                Console.WriteLine("WellFormedXML [file.xml] : Opens file.xml to check for well-formed status (no mismatched nodes, etc).");
+                Console.WriteLine("WellFormedXML [file.xml] : Opens file.xml to check for well-formed status (no mismatched nodes, etc.)");
             }
 
             if (string.Compare(Path.GetExtension(args[0].ToString()), ".XML", true) == 0)
