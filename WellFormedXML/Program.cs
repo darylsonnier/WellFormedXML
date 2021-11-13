@@ -59,7 +59,7 @@ namespace WellFormedXML
                 Console.WriteLine(args[0].ToUpper() + " is not an XML file name.");
                 return;
             }
-            Console.WriteLine("The XML is  well-formed.");
+            Console.WriteLine("The XML is  well formed.");
         }
     }
 }
