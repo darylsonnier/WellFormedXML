@@ -1,6 +1,0 @@
-C:\Projects\C#\WellFormedXML\WellFormedXML\bin\Release\WellFormedXML.exe.config
-C:\Projects\C#\WellFormedXML\WellFormedXML\bin\Release\WellFormedXML.exe
-C:\Projects\C#\WellFormedXML\WellFormedXML\bin\Release\WellFormedXML.pdb
-C:\Projects\C#\WellFormedXML\WellFormedXML\obj\Release\WellFormedXML.csprojResolveAssemblyReference.cache
-C:\Projects\C#\WellFormedXML\WellFormedXML\obj\Release\WellFormedXML.exe
-C:\Projects\C#\WellFormedXML\WellFormedXML\obj\Release\WellFormedXML.pdb

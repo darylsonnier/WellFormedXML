@@ -16,7 +16,7 @@ namespace WellFormedXML
             if (args.Count() == 0)
             {
                 Console.WriteLine("WellFormedXML --h :  This help information.");
-                Console.WriteLine("WellFormedXML [file.xml] : Opens file.xml to check for well-formed status.  ");
+                Console.WriteLine("WellFormedXML [file.xml] : Opens file.xml to check for well-formed status.");
                 return;
             }
 
